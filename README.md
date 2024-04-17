@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Sadraque</h1>
-<h3 style="display:flex align-items:center" align="center">I am a Javascript/Typescript developer and using <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://static.cdnlogo.com/logos/v/92/vue-js.svg" alt="vuejs logo" width="40" height="40"/> </a> and <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> as main stack.</h3>
+<h3 style="display:flex align-items:center" align="center">I am a Javascript/Typescript developer and using <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://static.cdnlogo.com/logos/v/92/vue-js.svg" alt="vuejs logo" width="40" height="40"/> </a> and <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"/> </a> as main stack.</h3>
 
 - Contact: **sdq.sts@gmail.com**
 
