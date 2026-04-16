@@ -1,10 +1,24 @@
-<h1 align="center">Hello 👋, I'm Sadraque</h1>
-<h3 style="display:flex align-items:center" align="center">I am a Javascript/Typescript developer and using <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://static.cdnlogo.com/logos/v/92/vue-js.svg" alt="vuejs logo" width="40" height="40"/> </a> and <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/621px-NestJS.svg.png" alt="nestjs" width="40" height="40"/> </a> as main stack.</h3>
+# Sadraque Santos
 
-- Contact: **sdq.sts@gmail.com**
+**Senior Frontend Developer** with 7+ years building production web applications.
 
-<h3 align="left">Here are some tools that I'm using right now:</h3>
-<p align="left" style="display:flex align-items:start">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></a><a href="https://nuxt.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/512px-Nuxt_logo.svg.png" alt="nuxt" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a><a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/621px-NestJS.svg.png" alt="nestjs" width="40" height="40"/> </a>  
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://static.cdnlogo.com/logos/v/92/vue-js.svg" alt="Vue.js" width="40" height="40"/> </a>
-</p>
+Currently building a multi-tenant SaaS platform with **React/Next.js** and **NestJS** — from architecture to production deployment.
+
+## What I do
+
+- **Frontend** — Vue.js (7+ years), React, Next.js, Nuxt.js, TypeScript
+- **Backend** — Node.js, NestJS, PostgreSQL, REST APIs
+- **Shipping** — Docker, CI/CD, Vercel, Fly.io
+
+## Recent work
+
+**Eixo.app** — Co-built a SaaS platform for local SEO intelligence. Full-stack: Next.js frontend, NestJS modular backend, PostgreSQL with Prisma, Stripe billing, AI-powered features with multi-provider abstraction (OpenAI, Anthropic, Google).
+
+**Farmtech** — Led Vue 2 to Vue 3 migration with Pinia. Built a reusable component library with Storybook adopted across multiple apps.
+
+**Eletromidia** — Migrated entire codebase to TypeScript, reducing production bugs by 60%. Built Vue + React components within Astro.
+
+## Where to find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sdq-sts)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sdq.sts@gmail.com)
